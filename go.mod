@@ -1,4 +1,4 @@
-module github.com/ngyewch/mdbook-plugin
+module github.com/loicsikidi/mdbook-plugin
 
 go 1.22
 
